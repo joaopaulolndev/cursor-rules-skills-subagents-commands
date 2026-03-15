@@ -1,0 +1,17 @@
+---
+description: Laravel Debugbar
+alwaysApply: false
+---
+
+# Laravel Debugbar
+
+## When to use
+
+- Installing and configuring fruitcake/laravel-debugbar
+- Debugging queries, views, routes, cache, and performance in Laravel
+- Customizing Debugbar collectors and storage
+- Clearing Debugbar data or restricting access
+
+## Keywords
+
+`debugbar`, `fruitcake/laravel-debugbar`, `debugbar:clear`, `queries`, `profiling`, `debug`, `collectors`, `DEBUGBAR_ENABLED`

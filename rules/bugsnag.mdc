@@ -1,0 +1,30 @@
+---
+description: Bugsnag Integration Assistant
+alwaysApply: false
+---
+
+# Bugsnag Integration Assistant
+
+## When to use
+
+- Setting up Bugsnag error monitoring in any project
+- Need to detect project type and choose the right Bugsnag SDK
+- Configuring Bugsnag for a new platform (PHP, JS, Python, Ruby, Go, Java, .NET, Flutter, React Native)
+
+## Sub-skills
+
+| Platform | File |
+|----------|------|
+| Laravel | `bugsnag/laravel.md` |
+| JavaScript (React, Vue, Angular, Next.js, Node, Express) | `bugsnag/javascript.md` |
+| Python (Django, Flask, Celery) | `bugsnag/python.md` |
+| Ruby (Rails, Sidekiq) | `bugsnag/ruby.md` |
+| Go (Gin, net/http) | `bugsnag/go.md` |
+| Flutter/Dart | `bugsnag/flutter.md` |
+| React Native/Expo | `bugsnag/react-native.md` |
+| Java/Spring | `bugsnag/java.md` |
+| .NET (ASP.NET Core) | `bugsnag/dotnet.md` |
+
+## Keywords
+
+`bugsnag`, `error monitoring`, `crash reporting`, `error tracking`, `performance monitoring`

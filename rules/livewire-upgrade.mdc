@@ -1,0 +1,18 @@
+---
+description: Livewire Upgrade
+alwaysApply: false
+---
+
+# Livewire Upgrade
+
+## When to use
+
+- Upgrading Livewire v2 to v3
+- Upgrading Livewire v3 to v4
+- Fixing `wire:model` breaking changes (deferred by default in v3)
+- Migrating Livewire events (`emit` to `dispatch`)
+- Handling Alpine.js integration changes after Livewire upgrade
+
+## Keywords
+
+`livewire upgrade`, `livewire v2 to v3`, `livewire v3 to v4`, `wire:model`, `livewire dispatch`, `livewire breaking changes`, `livewire volt`

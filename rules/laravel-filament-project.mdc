@@ -1,0 +1,17 @@
+---
+description: Laravel + Filament Project Setup
+alwaysApply: false
+---
+
+# Laravel + Filament Project Setup
+
+## When to use
+
+- Setting up a new Laravel + Filament project with dev tools
+- Configuring composer scripts (ide-helper, pint, phpstan, pest)
+- Installing essential dev dependencies (ide-helper, debugbar, larastan, pint)
+- Establishing project conventions for Laravel + Filament
+
+## Keywords
+
+`laravel-filament`, `project setup`, `composer scripts`, `ide-helper`, `debugbar`, `larastan`, `pint`, `dev dependencies`, `post-autoload-dump`

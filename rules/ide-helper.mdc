@@ -1,0 +1,17 @@
+---
+description: Laravel IDE Helper
+alwaysApply: false
+---
+
+# Laravel IDE Helper
+
+## When to use
+
+- Generating autocompletion files for Laravel facades, models, and meta
+- Configuring barryvdh/laravel-ide-helper in a project
+- Setting up composer scripts for automatic IDE helper regeneration
+- Fixing missing PHPDoc annotations on Eloquent models
+
+## Keywords
+
+`ide-helper`, `barryvdh/laravel-ide-helper`, `ide-helper:generate`, `ide-helper:model`, `ide-helper:meta`, `autocompletion`, `PHPDoc`, `_ide_helper.php`

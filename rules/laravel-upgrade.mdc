@@ -1,0 +1,17 @@
+---
+description: Laravel Upgrade Guide
+alwaysApply: false
+---
+
+# Laravel Upgrade Guide
+
+## When to use
+
+- Upgrading Laravel from one version to another (5.x through 13.x)
+- Handling breaking changes between Laravel versions
+- Updating composer.json dependencies for a new Laravel release
+- Migrating deprecated features (routes, middleware, config) to new patterns
+
+## Keywords
+
+`laravel upgrade`, `laravel/framework`, `breaking changes`, `migration`, `10.x`, `11.x`, `12.x`, `13.x`, `artisan --version`, `composer update`

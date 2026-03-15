@@ -1,0 +1,17 @@
+---
+description: Laravel Dusk
+alwaysApply: false
+---
+
+# Laravel Dusk
+
+## When to use
+
+- Writing browser automation tests with ChromeDriver
+- Testing JavaScript-driven UIs, SPAs, or Livewire components in a real browser
+- Managing ChromeDriver versions and Dusk configuration
+- Setting up CI/CD pipelines for browser tests
+
+## Keywords
+
+`dusk`, `browser`, `ChromeDriver`, `laravel/dusk`, `dusk:install`, `dusk:chrome-driver`, `tests/Browser`, `browse`, `screenshot`, `assertSee`

@@ -1,0 +1,18 @@
+---
+description: Pest Multi Auth Guard Testing
+alwaysApply: false
+---
+
+# Pest Multi Auth Guard Testing
+
+## When to use
+
+- Writing Pest tests for multiple auth guards (admin, member, vendor)
+- Testing login/logout flows for separate user tables
+- Testing middleware and route protection per guard
+- Testing Filament panel access with different auth guards
+- Testing Sanctum API tokens with multiple user types
+
+## Keywords
+
+`pest multi auth`, `auth guard test`, `multi login test`, `filament panel test`, `sanctum multi auth`, `guard middleware test`

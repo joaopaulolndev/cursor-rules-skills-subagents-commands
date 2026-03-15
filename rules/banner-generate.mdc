@@ -1,0 +1,17 @@
+---
+description: Banner Generator
+alwaysApply: false
+---
+
+# Banner Generator
+
+## When to use
+
+- Generating a project banner image (PNG) for GitHub or documentation
+- Auto-detecting project type (CLI, starter kit, Laravel/Filament package)
+- Creating banners from composer.json metadata
+- Saving banner to `art/{owner}-{repo}.png`
+
+## Keywords
+
+`banner`, `banner generate`, `project banner`, `banners-cli`, `art image`, `github banner`, `banner png`

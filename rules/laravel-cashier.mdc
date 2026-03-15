@@ -1,0 +1,17 @@
+---
+description: Laravel Cashier (Stripe)
+alwaysApply: false
+---
+
+# Laravel Cashier (Stripe)
+
+## When to use
+
+- Integrating Stripe billing into a Laravel application
+- Managing subscriptions, single charges, invoices, or Stripe Checkout
+- Handling Stripe webhooks, SCA, trials, or coupon/promotion codes
+- Configuring the Billable model and Stripe environment variables
+
+## Keywords
+
+`cashier`, `stripe`, `subscription`, `billing`, `invoice`, `checkout`, `webhook`, `trial`, `Billable`, `STRIPE_KEY`, `STRIPE_SECRET`, `laravel/cashier`

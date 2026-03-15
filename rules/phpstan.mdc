@@ -1,0 +1,18 @@
+---
+description: PHPStan Static Analysis
+alwaysApply: false
+---
+
+# PHPStan Static Analysis
+
+## When to use
+
+- Running PHPStan or Larastan static analysis on a project
+- Configuring PHPStan levels (0-9) and rules
+- Generating or updating a PHPStan baseline
+- Fixing PHPStan reported errors (type mismatches, undefined methods, etc.)
+- Setting up custom PHPStan extensions or ignoring errors
+
+## Keywords
+
+`phpstan`, `larastan`, `static analysis`, `phpstan level`, `phpstan baseline`, `type safety`, `phpstan analyse`, `phpstan neon`

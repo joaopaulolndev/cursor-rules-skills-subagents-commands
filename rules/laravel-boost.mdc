@@ -1,0 +1,17 @@
+---
+description: Laravel Boost
+alwaysApply: false
+---
+
+# Laravel Boost
+
+## When to use
+
+- Setting up Laravel Boost for AI-assisted development
+- Running `boost:update` to sync guidelines, skills, and MCP config
+- Configuring the documentation API and MCP server
+- Managing custom guidelines or skills in `.ai/` directory
+
+## Keywords
+
+`boost`, `boost:update`, `laravel-boost`, `AI-assisted`, `MCP`, `guidelines`, `skills`, `.ai/`, `documentation API`

@@ -1,0 +1,18 @@
+---
+description: Filament Plugin Creator
+alwaysApply: false
+---
+
+# Filament Plugin Creator
+
+## When to use
+
+- Creating a new Filament plugin from scratch
+- Managing Filament plugin branch strategy (1.x, 2.x, 3.x)
+- Setting up plugin project structure (ServiceProvider, Resources, etc.)
+- Publishing a Filament plugin to Packagist
+- Upgrading a plugin across Filament versions (v3, v4, v5)
+
+## Keywords
+
+`filament plugin`, `filament package`, `plugin creation`, `1.x 2.x 3.x branches`, `filament service provider`, `plugin skeleton`

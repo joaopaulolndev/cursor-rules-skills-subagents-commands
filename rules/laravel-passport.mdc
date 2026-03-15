@@ -1,0 +1,17 @@
+---
+description: Laravel Passport
+alwaysApply: false
+---
+
+# Laravel Passport
+
+## When to use
+
+- Implementing a full OAuth2 server in Laravel
+- Authorization code, PKCE, device flow, client credentials, or personal access tokens
+- Third-party app authentication with scopes
+- Choosing between Passport (OAuth2) and Sanctum (simple tokens)
+
+## Keywords
+
+`passport`, `oauth2`, `authorization code`, `PKCE`, `client credentials`, `personal access token`, `scopes`, `HasApiTokens`, `laravel/passport`, `install:api --passport`

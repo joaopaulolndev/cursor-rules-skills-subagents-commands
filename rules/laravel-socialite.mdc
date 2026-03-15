@@ -1,0 +1,19 @@
+---
+description: Laravel Socialite
+alwaysApply: false
+---
+
+# Laravel Socialite
+
+## When to use
+
+- Configuring OAuth social authentication (login with GitHub, Google, Facebook, etc.)
+- Setting up multi-provider social login with dynamic controller
+- Linking social accounts to existing users (social_accounts table)
+- Configuring access scopes, Slack bot tokens, stateless auth
+- Testing OAuth flows with Socialite::fake()
+- Community providers (Apple, Discord, Twitch, Microsoft, etc.)
+
+## Keywords
+
+`socialite oauth social login github google facebook apple linkedin slack provider authentication callback`

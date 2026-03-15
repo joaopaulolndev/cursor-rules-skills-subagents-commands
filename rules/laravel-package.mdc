@@ -1,0 +1,17 @@
+---
+description: Laravel Package Creator
+alwaysApply: false
+---
+
+# Laravel Package Creator
+
+## When to use
+
+- Creating a new Laravel package from scratch
+- Setting up Service Provider, Facade, config, routes, and migrations
+- Configuring package testing with Pest/PHPUnit and Orchestra Testbench
+- Publishing a package to Packagist with proper composer.json
+
+## Keywords
+
+`laravel package`, `ServiceProvider`, `Facade`, `composer.json`, `testbench`, `vendor:publish`, `package:discover`, `main branch`, `PackageServiceProvider`

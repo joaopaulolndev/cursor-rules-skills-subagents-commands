@@ -1,0 +1,25 @@
+---
+description: Tailwind CSS v3 to v4 Upgrade
+alwaysApply: false
+---
+
+# Tailwind CSS v3 to v4 Upgrade
+
+## When to use
+
+- Migrating Tailwind CSS from v3 to v4
+- Converting `tailwind.config.js` to CSS-based `@theme` configuration
+- Replacing `@tailwind base/components/utilities` with `@import "tailwindcss"`
+- Removing PostCSS and autoprefixer after Tailwind v4 upgrade
+- Setting up `@tailwindcss/vite` plugin in vite.config.js
+- Migrating content paths from JS config to `@source` directives in CSS
+- Converting JS plugin requires to CSS `@import` (e.g., `@import "@tailwindcss/forms"`)
+- Updating opacity classes from `bg-opacity-50` to slash syntax `bg-black/50`
+- Using new gradient syntax (`bg-linear-to-r`, `bg-conic`, `bg-radial`)
+- Upgrading Tailwind for Filament v4+ compatibility with custom theme CSS
+- Configuring dark mode with `@variant dark` in Tailwind v4
+- Registering Filament custom themes with `viteTheme()` after migration
+
+## Keywords
+
+`tailwind upgrade`, `tailwind v3 to v4`, `tailwind config css`, `@import tailwindcss`, `tailwind migration`, `@tailwindcss/vite`, `@theme`, `@source`, `postcss removal`, `autoprefixer`, `tailwind css variables`, `filament theme`, `bg-linear-to-r`

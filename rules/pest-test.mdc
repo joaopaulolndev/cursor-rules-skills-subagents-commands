@@ -1,0 +1,18 @@
+---
+description: Pest Testing
+alwaysApply: false
+---
+
+# Pest Testing
+
+## When to use
+
+- Writing unit or feature tests with Pest PHP
+- Running Pest tests with filters, groups, or parallel execution
+- Testing Laravel controllers, models, jobs, or middleware with Pest
+- Testing Livewire or Filament components with Pest
+- Generating code coverage reports with Pest
+
+## Keywords
+
+`pest`, `pest test`, `pest php`, `test coverage`, `pest parallel`, `pest filter`, `laravel testing`, `filament testing`

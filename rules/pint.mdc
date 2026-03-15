@@ -1,0 +1,24 @@
+---
+description: Laravel Pint Code Style
+alwaysApply: false
+---
+
+# Laravel Pint Code Style
+
+## When to use
+
+- Running Laravel Pint to format PHP code (`vendor/bin/pint`)
+- Checking code style without fixing (`pint --test` dry-run mode)
+- Formatting only git-changed files (`pint --dirty`)
+- Configuring Pint presets in `pint.json` (laravel, psr12, symfony, per)
+- Customizing Pint rules: ordered imports, trailing commas, strict types, unused imports removal
+- Setting up Pint for Laravel packages or Filament plugins (different include paths)
+- Configuring PHPDoc alignment, return types, class attributes separation rules
+- Running quality pipeline: Pint then PHPStan then Pest
+- Integrating Pint in GitHub Actions CI for automated code style checks
+- Adding Pint to Composer scripts (`format`, `format:test`, `format:dirty`, `quality`)
+- Disabling rules inline with `@codingStandardsIgnoreStart` for exceptional cases
+
+## Keywords
+
+`pint`, `laravel pint`, `code style`, `code formatting`, `php cs fixer`, `pint preset`, `pint.json`, `pint --test`, `pint --dirty`, `ordered imports`, `trailing comma`, `strict types`, `unused imports`, `psr12`, `symfony preset`, `quality pipeline`, `github actions pint`

@@ -1,0 +1,23 @@
+---
+description: Laravel Herd PHP
+alwaysApply: false
+---
+
+# Laravel Herd PHP
+
+## When to use
+
+- Running PHP commands with Laravel Herd on Windows
+- Determining correct PHP version from composer.json
+- Running Composer, Pest, PHPUnit, PHPStan, Pint with correct PHP binary
+- Multiple PHP versions (8.1, 8.2, 8.3, 8.4)
+
+## Critical Rule
+
+- **ALWAYS check `composer.json` for the minimum PHP version before running ANY PHP command**
+- Use the versioned binary (`php82.bat`, `php83.bat`) matching the project's minimum PHP requirement
+- **NEVER use `php.bat` (without version)** — always use the explicit versioned binary
+
+## Keywords
+
+`herd`, `php`, `composer.json`, `php version`, `php82`, `php83`, `php84`, `pest`, `phpstan`, `pint`, `artisan`

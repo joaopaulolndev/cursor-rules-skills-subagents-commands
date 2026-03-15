@@ -1,0 +1,18 @@
+---
+description: Filament Multi Auth Guard
+alwaysApply: false
+---
+
+# Filament Multi Auth Guard
+
+## When to use
+
+- Configuring multiple Filament panels with separate auth guards
+- Creating separate login pages for admin, member, vendor, etc.
+- Setting up multiple user tables and models with independent authentication
+- Configuring password reset brokers per guard
+- Implementing `FilamentUser` on custom user models
+
+## Keywords
+
+`filament multi auth`, `filament panels`, `auth guard`, `multiple login`, `separate user tables`, `filament authentication`, `panel provider`

@@ -1,0 +1,17 @@
+---
+description: Code Review
+alwaysApply: false
+---
+
+# Code Review
+
+## When to use
+
+- Reviewing code changes (branches, PRs, specific files)
+- Checking code quality, security, performance, maintainability
+- Applying review checklists for PHP/Laravel/Filament/Livewire
+- Generating review reports with severity classification
+
+## Keywords
+
+`code review pr pull request branch diff quality security performance checklist`

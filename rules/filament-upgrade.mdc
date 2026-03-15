@@ -1,0 +1,18 @@
+---
+description: Filament Upgrade
+alwaysApply: false
+---
+
+# Filament Upgrade
+
+## When to use
+
+- Upgrading Filament v3 to v4
+- Upgrading Filament v4 to v5
+- Handling Tailwind v4 migration required by Filament 4+
+- Handling Livewire v4 migration required by Filament 5
+- Resolving Filament breaking changes after upgrade
+
+## Keywords
+
+`filament upgrade`, `filament v3 to v4`, `filament v4 to v5`, `filament migration`, `filament breaking changes`, `filament update`

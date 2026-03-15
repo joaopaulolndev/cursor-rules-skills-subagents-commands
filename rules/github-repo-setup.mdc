@@ -1,0 +1,17 @@
+---
+description: GitHub Repository Setup
+alwaysApply: false
+---
+
+# GitHub Repository Setup
+
+## When to use
+
+- Updating GitHub repo description or homepage URL
+- Adding or removing repository topics/tags
+- Setting up `.github/FUNDING.yml` for sponsors
+- Configuring repository metadata via `gh repo edit`
+
+## Keywords
+
+`github repo`, `repo description`, `repo topics`, `FUNDING.yml`, `github sponsors`, `gh repo edit`, `repository metadata`

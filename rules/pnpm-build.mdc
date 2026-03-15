@@ -1,0 +1,24 @@
+---
+description: PNPM Build
+alwaysApply: false
+---
+
+# PNPM Build
+
+## When to use
+
+- Installing Node.js dependencies with pnpm (instead of npm or yarn)
+- Running Vite dev server (`pnpm dev`) or production builds (`pnpm build`)
+- Managing frontend assets in Laravel projects with Vite
+- Adding or removing npm packages via pnpm (`pnpm add`, `pnpm remove`)
+- Setting up Filament custom themes with Vite and pnpm build
+- Configuring vite.config.js for Laravel, Tailwind v4, React (Inertia), or Vue (Inertia)
+- Setting up Alpine.js with Livewire in a pnpm-managed project
+- Configuring pnpm workspaces for monorepo projects (pnpm-workspace.yaml)
+- Setting up CI/CD with pnpm in GitHub Actions (pnpm/action-setup, frozen-lockfile)
+- Troubleshooting pnpm issues (peer deps, Vite cache, hot reload, build failures)
+- Cleaning node_modules and pnpm store (`pnpm store prune`)
+
+## Keywords
+
+`pnpm`, `pnpm install`, `pnpm build`, `pnpm dev`, `pnpm add`, `vite`, `node dependencies`, `frontend assets`, `laravel vite`, `filament theme`, `inertia react`, `inertia vue`, `alpinejs`, `pnpm workspace`, `monorepo`, `github actions pnpm`, `hot reload`

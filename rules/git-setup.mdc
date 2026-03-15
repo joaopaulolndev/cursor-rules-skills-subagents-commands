@@ -1,0 +1,17 @@
+---
+description: Git Repository Setup
+alwaysApply: false
+---
+
+# Git Repository Setup
+
+## When to use
+
+- Initializing a new Git repository for Laravel projects or packages
+- Setting up branch conventions (main vs 1.x/2.x/3.x)
+- Connecting a local repo to GitHub remote
+- Configuring initial commit and branch structure for Filament plugins
+
+## Keywords
+
+`git init`, `git setup`, `branch convention`, `git remote`, `repository setup`, `git branch strategy`

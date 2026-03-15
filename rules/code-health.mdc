@@ -1,0 +1,17 @@
+---
+description: Code Health Analysis
+alwaysApply: false
+---
+
+# Code Health Analysis
+
+## When to use
+
+- Analyzing overall code health of a PHP/Laravel project
+- Running health checks (Pint, PHPStan, Pest pipeline)
+- Scoring code quality dimensions (readability, complexity, coupling, cohesion)
+- Identifying quick wins for code improvement
+
+## Keywords
+
+`code health quality analysis score maintainability complexity coupling cohesion`

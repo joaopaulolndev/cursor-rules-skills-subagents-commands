@@ -1,0 +1,17 @@
+---
+description: Laravel Multi Auth Guard
+alwaysApply: false
+---
+
+# Laravel Multi Auth Guard
+
+## When to use
+
+- Configuring multiple auth guards with separate tables (admin, user, member)
+- Creating separate login pages and dashboards per user type
+- Setting up guards, providers, and password reset brokers in `config/auth.php`
+- Building custom middleware for multi-guard authentication
+
+## Keywords
+
+`multi-auth`, `guard`, `provider`, `admin`, `auth.php`, `password reset broker`, `Authenticatable`, `middleware`, `separate tables`, `multiple guards`

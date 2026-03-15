@@ -1,0 +1,19 @@
+---
+description: Laravel Horizon
+alwaysApply: false
+---
+
+# Laravel Horizon
+
+## When to use
+
+- Installing and configuring Laravel Horizon for Redis queue management
+- Setting up supervisors, balancing strategies (auto, simple, false), scaling
+- Configuring dashboard authorization, notifications (Slack, email, SMS)
+- Tags, silenced jobs, metrics, wait time thresholds
+- Production deployment with Supervisor process monitor
+- Queue priority with multiple supervisors
+
+## Keywords
+
+`horizon redis queue supervisor balancing auto scaling workers processes metrics dashboard notifications tags deploy`

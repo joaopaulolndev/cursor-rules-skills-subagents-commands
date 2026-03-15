@@ -1,0 +1,17 @@
+---
+description: Laravel Soketi Integration
+alwaysApply: false
+---
+
+# Laravel Soketi Integration
+
+## When to use
+
+- Setting up real-time broadcasting with Soketi WebSocket server
+- Replacing Pusher with a self-hosted WebSocket solution
+- Configuring Laravel Echo, channels, presence channels, and events
+- Deploying Soketi with Docker, SSL, or in production
+
+## Keywords
+
+`soketi`, `websocket`, `broadcasting`, `pusher`, `laravel-echo`, `real-time`, `channels`, `events`, `Docker`, `uWebSockets`, `BROADCAST_DRIVER`
